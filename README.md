@@ -1,14 +1,16 @@
-Employee Payroll System (EPS)
+# Employee Payroll System (EPS)
+
 A Node.js, Express, and EJS web application to manage employee records and calculate monthly payroll.
 
-Features
+## Features
 Dashboard: View all employees and payroll details
 Add, Edit, Delete employees
 Payroll calculation (12% tax, net salary)
 Data persistence in employees.json
 Custom fileHandler module for file operations
 EJS templating and static CSS
-Getting Started
+
+## Getting Started
 Install dependencies:
 npm install
 
